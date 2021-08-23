@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=deserve82)](https://solved.ac/deserve82)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=deserve82)](https://solved.ac/deserve82)
